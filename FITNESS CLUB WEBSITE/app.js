@@ -6,7 +6,7 @@ hamburger.addEventListener('click', () => {
 });
 
 
-var countDownDate = new Date("oct 9, 2024 15:37:25").getTime();
+var countDownDate = new Date("FEB 27, 2026 15:37:25").getTime();
  
 var x = setInterval(function() {
  
@@ -42,3 +42,4 @@ scrollToTopBtn.addEventListener('click', () => {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 });
+
